@@ -10,5 +10,6 @@ public class FirstGit {
         System.out.println("主干  upload");
         System.out.println("在线编辑");
         System.out.println("ssh");
+        System.out.println("ssh2");
     }
 }
